@@ -1,4 +1,5 @@
 baseurl = "https://holz1gst.github.io/hugo_beautifulhugo"
+canonifyurls = true
 DefaultContentLanguage = "en"
 title = "GeoCROW - Project"
 theme = "beautifulhugo"
@@ -6,6 +7,7 @@ pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
+
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
