@@ -1,5 +1,5 @@
 baseurl = "https://holz1gst.github.io/hugo_beautifulhugo"
-canonifyurls = true
+canonifyURLs = true
 DefaultContentLanguage = "en"
 title = "GeoCROW - Project"
 theme = "beautifulhugo"
