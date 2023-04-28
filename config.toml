@@ -1,4 +1,4 @@
-baseurl = "https://holz1gst.github.io/hugo_beautifulhugo"
+baseurl = "https://holz1gst.github.io/hugo_beautifulhugo/"
 DefaultContentLanguage = "en"
 title = "GeoCROW - Project"
 theme = "beautifulhugo"
